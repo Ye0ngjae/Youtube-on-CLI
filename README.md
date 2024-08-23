@@ -1,5 +1,6 @@
 # Youtube-on-CLI
 ![Python](/docs/result.gif)
+
 Playing youtube video on PowerShell
 
 ## Installation
