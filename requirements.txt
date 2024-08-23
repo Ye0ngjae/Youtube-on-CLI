@@ -1,0 +1,4 @@
+pytubefix
+opencv-python
+numpy
+pyglet
