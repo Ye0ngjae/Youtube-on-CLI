@@ -1,8 +1,8 @@
 import cv2
-import os
 import time
 
-CHARSET = " .:-=+*#%@"
+CHARSET = " .,wil@"
+CHARSET = " .,:ilwW"
 
 def frame_to_ascii(frame):
     video = []
