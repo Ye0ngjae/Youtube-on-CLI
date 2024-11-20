@@ -1,4 +1,3 @@
-/__pycache__/
-/.vscode/
-/.idea/
-/.pytest_cache/
+./source/audios/*
+./source/videos/*
+*/__pycache__
